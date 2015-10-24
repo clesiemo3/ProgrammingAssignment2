@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## First function sets up our functions we need to properly GET and PUT (set) values from our matrix object.
+## Second function solves the inverse of our matrix or retrieves the cached solution if available.
 
 ## Returns a Matrix object that can cache its inverse.
 
